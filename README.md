@@ -10,11 +10,10 @@ This repo provides code for the paper:
 ## Environment setup 
 - Add the `src` dir to the project's path
 - Install requirements from `requirements.txt` 
-- Initialize and fetch submodules by running
+- Initialize and fetch submodule by running
     `
     git submodule update --init
     `
-  git submodule add https://github.com/nogazs/ib-color-naming.git ib_color_naming
 
 ## Model
 
@@ -72,7 +71,7 @@ If you find this code useful, please consider linking this repo and citing the f
     issn = {0027-8424}
 }
 ```
-
+Link to repo: https://github.com/nogazs/ib-nafaanra
 
 
  

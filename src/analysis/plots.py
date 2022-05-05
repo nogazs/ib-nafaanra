@@ -11,7 +11,7 @@ fig_scale = 1
 
 FS = 13
 traj_ex_clr = np.array([72, 148, 139]) / 255
-traj_clr = 'gray'
+traj_clr = 'lightgray'
 
 
 # ~~~~~~~~~~~~~

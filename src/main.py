@@ -38,5 +38,5 @@ if __name__ == '__main__':
     ]
 
     pipeline = Pipeline(analysis_funcs=analyses, plot_funcs=figures, proj_kwargs=proj_kwargs, **config.__dict__)
-    pipeline.run()
-
+    # pipeline.run()
+    pipeline.generate_figs(figures)
