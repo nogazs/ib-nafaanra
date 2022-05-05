@@ -1,0 +1,12 @@
+{
+  "name": "jole-2022",
+  "warm_start": true,
+  "fig_fmt": "pdf",
+  "seed": 60099616,
+  "out_dir": "output/",
+  "rand_drift": {
+    "n_traj": 50,
+    "n_iter": 1500,
+    "examples": [1]
+  }
+}

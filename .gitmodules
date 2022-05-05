@@ -1,0 +1,3 @@
+[submodule "ib_color_naming"]
+	path = ib_color_naming
+	url = https://github.com/nogazs/ib-color-naming.git
