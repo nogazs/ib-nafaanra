@@ -35,7 +35,7 @@ Run `main.py` from the project's root dir, namely `python src/main.py`. This wil
 
 If you find this code useful, please consider linking this repo and citing the following publications:
 
-```
+```bibtex
 @article{Zaslavsky2022evolution,
     author = {Zaslavsky, Noga and Garvin, Karee and Kemp, Charles and Tishby, Naftali and Regier, Terry},
     journal = {Journal of Language Evolution},
@@ -46,7 +46,7 @@ If you find this code useful, please consider linking this repo and citing the f
 }
 ```
 
-```
+```bibtex
 @phdthesis{Zaslavsky2020thesis, 
     author = {Zaslavsky, Noga},
     publisher = {The Hebrew University of Jerusalem},
@@ -57,7 +57,7 @@ If you find this code useful, please consider linking this repo and citing the f
 }
 ```
 
-```
+```bibtex
 @article{Zaslavsky2018efficient,
     author = {Zaslavsky, Noga and Kemp, Charles and Regier, Terry and Tishby, Naftali},
     title = {Efficient compression in color naming and its evolution},
